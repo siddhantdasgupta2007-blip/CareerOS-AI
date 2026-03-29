@@ -38,5 +38,5 @@ CareerOS AI provides:
 pip install -r requirements.txt
 streamlit run app.py
 
-#The App link
+## 🌐 Live Demo
 https://careeros-ai-23wnggwbxbvmwngtuqyjcg.streamlit.app/
