@@ -37,3 +37,6 @@ CareerOS AI provides:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+#The App link
+https://careeros-ai-23wnggwbxbvmwngtuqyjcg.streamlit.app/
